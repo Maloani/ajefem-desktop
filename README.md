@@ -1,7 +1,6 @@
-🚀 AJEFEM Desktop Application
-Digital Transformation for Community Impact
-
-### *Smart NGO Management System*
+# 🚀 AJEFEM Desktop Application  
+### Digital Transformation for Community Impact  
+#### *Smart NGO Management System*
 
 <p align="center">
   <img src="logo.png" width="120" />
@@ -18,73 +17,80 @@ Digital Transformation for Community Impact
 
 ---
 
+## 🌍 Vision
 
-🌍 Vision
+> **Empowering African communities through technology.**
 
-Empowering African communities through technology.
+AJEFEM Desktop Application est une solution numérique innovante conçue pour moderniser la gestion des organisations communautaires, en particulier **AJEFEM (Actions des Jeunes et Femmes pour l’Entraide Mutuelle)**.  
+Elle permet de centraliser les données, améliorer la gouvernance et automatiser les processus administratifs.
 
-AJEFEM Desktop Application est une solution numérique innovante conçue pour moderniser la gestion des organisations communautaires, en particulier AJEFEM (Actions des Jeunes et Femmes pour l’Entraide Mutuelle).
+---
 
+## 🎯 Objectifs du projet
 
+- 📌 Digitaliser la gestion des ONG et associations  
+- 📌 Centraliser les données des membres  
+- 📌 Automatiser les processus administratifs  
+- 📌 Renforcer la transparence et la gouvernance  
+- 📌 Faciliter la prise de décision grâce à un dashboard interactif  
 
-📊 Dashboard analytique
+---
 
-🔐 Système d’authentification
+## 🧠 Fonctionnalités clés
 
-🎯 Objectifs du projet
-📌 Digitaliser la gestion des ONG et associations
-📌 Centraliser les données des membres
-📌 Automatiser les processus administratifs
-📌 Améliorer la transparence et la gouvernance
-📌 Faciliter la prise de décision via un dashboard
-🧠 Fonctionnalités clés
+- ✨ Interface moderne et professionnelle (UI/UX avancée)  
+- 🔐 Authentification sécurisée des utilisateurs  
+- 📊 Tableau de bord interactif  
+- 📁 Gestion des membres et des activités  
+- ⚙️ Système de configuration dynamique  
+- 🔄 Mise à jour automatique via JSON  
+- 📦 Génération d’un installateur Windows (.exe)  
+- 🚀 Splash screen avec chargement dynamique  
 
-✨ Interface moderne et professionnelle (UI/UX avancée)
-🔐 Authentification sécurisée des utilisateurs
-📊 Tableau de bord interactif
-📁 Gestion des membres et activités
-⚙️ Système de configuration dynamique
-🔄 Mise à jour automatique via JSON
-📦 Génération d’un installateur Windows (.exe)
-🚀 Splash screen avec chargement dynamique
-
-🏗️ Quelques captures du systeme
+---
 
 ## 📸 Aperçu de l'application
 
 <p align="center">
-  <img src="im.png" width="45%" />
-  <img src="im1.png" width="45%" />
+  <img src="im.jpg" width="45%" />
+  <img src="im1.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="im2.png" width="45%" />
-  <img src="icon.png" width="30%" />
+  <img src="im2.jpg" width="45%" />
+  <img src="icon.jpg" width="25%" />
 </p>
 
-⚙️ Stack technologique
-Technologie	Rôle
-🐍 Python	Backend & logique
-🖥️ PySide6 / Tkinter	Interface graphique
-📦 PyInstaller	Compilation en exécutable
-⚙️ Inno Setup	Création installateur
-🗂️ JSON	Configuration & updates
-🚀 Installation
-🔹 Option 1 : Exécutable direct
-dist/AJEFEM_Setup.exe
-🔹 Option 2 : Installation complète
-AJEFEM_Setup_v1.0.exe
+---
 
-✔️ Lance le fichier et suis les instructions.
+## ⚙️ Stack technologique
+
+| Technologie | Rôle |
+|------------|------|
+| 🐍 Python | Backend & logique |
+| 🖥️ PySide6 / Tkinter | Interface graphique |
+| 📦 PyInstaller | Compilation en exécutable |
+| ⚙️ Inno Setup | Création installateur |
+| 🗂️ JSON | Configuration & mise à jour |
+
+---
+
+## 🚀 Installation
+
+### 🔹 Option 1 : Exécution directe
+```bash
+dist/AJEFEM_Setup.exe
+
+✔️ Lancez le fichier et suivez les instructions.
 
 🔄 Système de mise à jour
 
-L’application utilise un système de version basé sur :
+L’application utilise un système basé sur :
 
 update.json
 
-✔️ Vérification automatique
-✔️ Téléchargement des nouvelles versions
+✔️ Vérification automatique des versions
+✔️ Téléchargement des mises à jour
 ✔️ Maintenance simplifiée
 
 📈 Cas d’utilisation
@@ -92,10 +98,10 @@ update.json
 🏫 Institutions éducatives
 🧑‍🤝‍🧑 Organisations communautaires
 🌍 Projets de développement local
-🔮 Roadmap (Évolutions futures)
-☁️ Synchronisation cloud (API + base distante)
+🔮 Roadmap
+☁️ Synchronisation cloud (API + base de données distante)
 📱 Version mobile Android
-🤖 Intégration IA (analyse & prédictions)
+🤖 Intégration de l’IA (analyse et prédictions)
 🔐 Authentification biométrique
 🌐 Support multilingue (FR / EN)
 📊 Statistiques avancées
