@@ -52,13 +52,13 @@ Elle permet de centraliser les données, améliorer la gouvernance et automatise
 ## 📸 Aperçu de l'application
 
 <p align="center">
-  <img src="im.jpg" width="45%" />
-  <img src="im1.jpg" width="45%" />
+  <img src="im.JPG" width="45%" />
+  <img src="im1.JPG" width="45%" />
 </p>
 
 <p align="center">
-  <img src="im2.jpg" width="45%" />
-  <img src="icon.jpg" width="25%" />
+  <img src="im2.JPG" width="45%" />
+  <img src="icon.JPG" width="25%" />
 </p>
 
 ---
